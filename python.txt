@@ -1,1 +1,7 @@
 HERRAMIENTAS DE PYTHON
+- Instalar PYTHON
+- VENTANA DE COMANDOS UNIX: Cmder
+    para probar la consola en windws utilizamos el comando: py  
+    para probar la consola en windws utilizamos el comando: python3
+
+    para dejar la consola de python : exit()
