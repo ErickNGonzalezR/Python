@@ -11,7 +11,7 @@ PARA EJECUTAR POR CONSOLA WINDWS :py nombre_archivo.py
 Para comentar codigo :#
 Para comentar lineas seleccionadas: ctrl + ç
 
-Con momllas triples permite hacer un texto por lineas
+Con Comllas triples dobles permite hacer un texto por lineas
 """
 
 """
@@ -22,6 +22,7 @@ Para la creacion de funciones la estructura es:
 def nombre_funcion ():
     lorem   
     lorem
+    return
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 todas las variables son en minuscula y si hay mas de una sele coloca _
 print (variable) : imprime la variable 
