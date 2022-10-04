@@ -2,6 +2,69 @@ HERRAMIENTAS DE PYTHON
 - Instalar PYTHON
 - VENTANA DE COMANDOS UNIX: Cmder
     para probar la consola en windws utilizamos el comando: py  
-    para probar la consola en windws utilizamos el comando: python3
+    para probar la consola en LINUX utilizamos el comando: python3
 
     para dejar la consola de python : exit()
+
+PARA EJECUTAR POR CONSOLA WINDWS :py nombre_archivo.py
+
+Para comentar codigo :#
+Para comentar lineas seleccionadas: ctrl + ç
+
+Con momllas triples permite hacer un texto por lineas
+"""
+
+"""
+
+
+Para la creacion de funciones la estructura es:
+
+def nombre_funcion ():
+    lorem   
+    lorem
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+todas las variables son en minuscula y si hay mas de una sele coloca _
+print (variable) : imprime la variable 
+input ("EScribe un dato")  : escribir datos el resultado es un string 
+
+VARIABLES 
+    String : variable=""   :En String debemos colocar comillas 
+
+
+    Boolean :   True
+                False
+
+CONVERTIR TIPOS DE DATOS
+    String a int : variable_String = int (variable_String)
+    Float a  int : variable_Float = int (variable_Float)
+    Float a String: variable_Float = str(variable_Float) 
+
+OPERADORES LOGICOS
+    y:  and                     es falso y almenos uno es falso
+    o:  or                      es verdadero y almenos uno es verdadero
+    no: not                     da el valor contrario
+
+OPERADORES DE COMPARACION  
+    igualdad: ==
+    distinto: !=
+    mayor que: >
+    menor que: <
+    mayor igual: >=
+    menot igual: <=
+
+////////////////////////////////////////////////////////////////////////////////////////////
+if # > #:
+    pass
+else:
+    pass   
+
+
+if # > #:
+    pass
+elif # == #:
+    pass
+else:
+         
+///////////////////////////////////////////////////////////////////////////////////////////
+
+PARA DEDONDEAR DECIMALES: round(variable_Float,numero de decimales(#))
