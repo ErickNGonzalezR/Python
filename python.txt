@@ -94,3 +94,16 @@ CADENAS DE CARACTERES
 - Para saber cuantos caracteres tiene una cadena de texto: len(variable)
 
 - Para partir una cadena de caracteres o (slice): variable[0:32],  variable[2:](hasta el final)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+LISTAS
+    numeros = [1,]
+    Eliminar elementos de una lista : numeros.pop(index)
+    Agregar elementos a una lista : numeros.append(palabra)
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+TUPLA 
+SON LISTAS QUE NO SE PUDEN MODIFICAR   
+NUMERS = (1,)
