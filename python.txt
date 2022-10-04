@@ -11,7 +11,7 @@ PARA EJECUTAR POR CONSOLA WINDWS :py nombre_archivo.py
 Para comentar codigo :#
 Para comentar lineas seleccionadas: ctrl + ç
 
-Con Comllas triples dobles permite hacer un texto por lineas
+Con Comillas triples dobles permite hacer un texto por lineas
 """
 
 """
@@ -67,5 +67,30 @@ elif # == #:
 else:
          
 ///////////////////////////////////////////////////////////////////////////////////////////
+ for variable in range (1,variable o numro):
+        print(variable)
 
+
+
+//////////////////////////////////////////////////////////////////////////////////////////
 PARA DEDONDEAR DECIMALES: round(variable_Float,numero de decimales(#))
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////
+CADENAS DE CARACTERES 
+
+- Para colocar el la primera letra en mayuscula : variable = variable.capitalize() 
+
+- Para colocar el la palabra en mayuscula : variable = variable.upper() 
+
+- Para colocar el la palabra en minuscula : variable = variable.lower() 
+
+- Para eliminar espacios al final: variable = variable.strip()
+
+- Para reemplazar letras : variable = variable.replace("letra" a reemplazar,"letra" que reemlaza)
+
+- Para entrar en una letra especifica : variable[indice]
+
+- Para saber cuantos caracteres tiene una cadena de texto: len(variable)
+
+- Para partir una cadena de caracteres o (slice): variable[0:32],  variable[2:](hasta el final)
